@@ -22,7 +22,7 @@ class LinearRegression:
         plt.show()
 
 # Usage example
-lr = LinearRegression()
-lr.draw(10)
-lr.draw(0.1)
-lr.draw(0.001)
+#lr = LinearRegression()
+#lr.draw(10)
+#lr.draw(0.1)
+#lr.draw(0.001)
